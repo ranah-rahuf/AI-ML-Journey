@@ -10,7 +10,7 @@ print("Age: "+age)
 print("College: "+college)
 print("Branch: "+branch)
 
-#
+#Even or odd
 number=float(input("Enter a number:"))
 if(number%2==0):
     print("even")
