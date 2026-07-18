@@ -15,7 +15,7 @@ print(months)
 months[3]="dec"
 print(months)
 # 7. Create a tuple.
-tuple=(3,5,6,8,9)
+number_tuple=(3,5,6,8,9)
 print(tuple)
 # 8. Input age → Adult/Minor.
 age = int(input("Enter your age: "))
@@ -27,7 +27,7 @@ else:
 mark=int(input("enter your mark:"))
 passmark=int(input("Enter Pass Mark:"))
 
-if mark > passmark:
+if mark >= passmark:
     print("Pass")
 else:
     print("fail")
