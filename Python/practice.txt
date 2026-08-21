@@ -1,0 +1,5 @@
+Apple - Fruit
+Orange - Fruit
+Tomato - Vegetable
+
+Potato - Vegetable

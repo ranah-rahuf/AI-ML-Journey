@@ -1,0 +1,6 @@
+1,Ranah,20,Computer Science,90
+2,John,22,Accounting,85
+3,Tara,12,BCA,90.0
+4,Paul,35,Mechanic,89.0
+5,hector,23,BBA,88.0
+6,nolan,12,cs,89.0
